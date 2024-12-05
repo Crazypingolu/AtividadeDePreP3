@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">preP3</string>
+    <string name="qntNum">Digite a quantidade de termos:</string>
+    <string name="aviso">Aviso:</string>
+    <string name="validar">Validar</string>
+    <string name="valorH">Valor de H:</string>
+</resources>
